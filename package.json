@@ -1,0 +1,12 @@
+{
+  "name": "raspi-ip-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Lawrence Pan <lawrencefeipan@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
